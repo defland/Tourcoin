@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tour
+Comment=Tour P2P Cryptocurrency
+Exec=tour-qt %u
+Terminal=false
+Type=Application
+Icon=tour128
+MimeType=x-scheme-handler/tour;
+Categories=Office;Finance;
+Name[en_US]=tour-qt.desktop
