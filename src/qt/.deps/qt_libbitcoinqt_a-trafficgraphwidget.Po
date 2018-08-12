@@ -1,9 +1,9 @@
 qt/qt_libbitcoinqt_a-trafficgraphwidget.o: qt/trafficgraphwidget.cpp \
  qt/trafficgraphwidget.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QWidget \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qwidget.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QWidget \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qwidget.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/cstddef \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -17,11 +17,11 @@ qt/qt_libbitcoinqt_a-trafficgraphwidget.o: qt/trafficgraphwidget.cpp \
  /usr/share/mingw-w64/include/vadefs.h \
  /usr/share/mingw-w64/include/sdks/_mingw_directx.h \
  /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/utility \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_relops.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_pair.h \
@@ -60,27 +60,27 @@ qt/qt_libbitcoinqt_a-trafficgraphwidget.o: qt/trafficgraphwidget.cpp \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/ext/new_allocator.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/memoryfwd.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
  /usr/share/mingw-w64/include/string.h \
  /usr/share/mingw-w64/include/sec_api/string_s.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/stdarg.h \
@@ -119,9 +119,9 @@ qt/qt_libbitcoinqt_a-trafficgraphwidget.o: qt/trafficgraphwidget.cpp \
  /usr/share/mingw-w64/include/errno.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/basic_string.tcc \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/iterator \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/ostream \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/ios \
@@ -147,15 +147,15 @@ qt/qt_libbitcoinqt_a-trafficgraphwidget.o: qt/trafficgraphwidget.cpp \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/list \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_list.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/list.tcc \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/vector \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_uninitialized.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_vector.h \
@@ -165,70 +165,70 @@ qt/qt_libbitcoinqt_a-trafficgraphwidget.o: qt/trafficgraphwidget.cpp \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_tree.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_map.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_multimap.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpaintdevice.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpalette.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qrgb.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qbrush.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qmatrix.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpolygon.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qregion.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatastream.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qline.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qtransform.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainterpath.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qimage.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixelformat.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixmap.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpaintdevice.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpalette.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qrgb.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qbrush.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qmatrix.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpolygon.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qregion.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatastream.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qline.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qtransform.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainterpath.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qimage.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixelformat.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixmap.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/numeric \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_numeric.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfont.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontmetrics.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontinfo.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcursor.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qkeysequence.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QQueue \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qqueue.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfont.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontmetrics.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontinfo.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcursor.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qkeysequence.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QQueue \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qqueue.h \
  qt/clientmodel.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/limits \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/QPainter \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainter.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qtextoption.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpen.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/QColor \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QTimer \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtimer.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasictimer.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/QPainter \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainter.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qtextoption.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpen.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/QColor \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QTimer \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtimer.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasictimer.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/cmath \
  /usr/share/mingw-w64/include/math.h
 
 qt/trafficgraphwidget.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QWidget:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QWidget:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qwidget.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qwidget.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/cstddef:
 
@@ -256,15 +256,15 @@ qt/trafficgraphwidget.h:
 
 /usr/share/mingw-w64/include/sdks/_mingw_ddk.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/utility:
 
@@ -342,47 +342,47 @@ qt/trafficgraphwidget.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/memoryfwd.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
 
 /usr/share/mingw-w64/include/string.h:
 
@@ -460,11 +460,11 @@ qt/trafficgraphwidget.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/basic_string.tcc:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/iterator:
 
@@ -516,23 +516,23 @@ qt/trafficgraphwidget.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/list.tcc:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/vector:
 
@@ -552,109 +552,109 @@ qt/trafficgraphwidget.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_multimap.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpaintdevice.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpaintdevice.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpalette.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpalette.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qrgb.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qrgb.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qbrush.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qbrush.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qmatrix.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qmatrix.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpolygon.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpolygon.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qregion.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qregion.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatastream.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatastream.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qline.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qline.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qtransform.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qtransform.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainterpath.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainterpath.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qimage.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qimage.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixelformat.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixelformat.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixmap.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixmap.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/numeric:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_numeric.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfont.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfont.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontmetrics.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontmetrics.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontinfo.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontinfo.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcursor.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcursor.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qkeysequence.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qkeysequence.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QQueue:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QQueue:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qqueue.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qqueue.h:
 
 qt/clientmodel.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/limits:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/QPainter:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/QPainter:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainter.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainter.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qtextoption.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qtextoption.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpen.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qpen.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/QColor:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/QColor:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QTimer:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QTimer:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtimer.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtimer.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasictimer.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasictimer.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/cmath:
 

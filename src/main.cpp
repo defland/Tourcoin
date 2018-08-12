@@ -116,7 +116,7 @@ static void CheckBlockIndex(const Consensus::Params& consensusParams);
 /** Constant stuff for coinbase transactions we create: */
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "DarkCoin Signed Message:\n";
+const string strMessageMagic = "TourCoin Signed Message:\n";
 
 // Internal stuff
 namespace {
@@ -1751,25 +1751,16 @@ CAmount GetBlockSubsidy(int nPrevBits, int nPrevHeight, const Consensus::Params&
 
     CAmount nSubsidy = 5 * COIN;
 
-    if (nPrevHeight >= 1 && nPrevHeight < 3300){
+   
+    if (nPrevHeight >= 1 && nPrevHeight < 500){
         nSubsidy = 1 * COIN;
-    }else if (nPrevHeight >= 3300 && nPrevHeight < 8400){
-        nSubsidy = 5 * COIN;
-    }else if (nPrevHeight >= 8400 && nPrevHeight < 12600){
-       nSubsidy = 10 * COIN;
-    }else if (nPrevHeight >= 12600 && nPrevHeight < 20300){
-       nSubsidy = 20 * COIN;
-    }else if (nPrevHeight >= 20300 && nPrevHeight < 24800){
-       nSubsidy = 35 * COIN;
-    }else if (nPrevHeight >= 24800 && nPrevHeight < 28250){
-       nSubsidy = 100 * COIN;
-    }else if (nPrevHeight >= 28250 && nPrevHeight < 32400){
-       nSubsidy = 150 * COIN;
-    }else if (nPrevHeight >= 32400 && nPrevHeight < 71600){
-       nSubsidy = 200 * COIN;
-    }else{
-       nSubsidy = 100 * COIN;
+    }else if (nPrevHeight >= 500 && nPrevHeight < 10000){
+        nSubsidy = 2 * COIN;
+    }else if (nPrevHeight >= 10000 && nPrevHeight < 418400){
+    nSubsidy = 4 * COIN;
+    
     }
+
 
 
     for (int i = consensusParams.nSubsidyHalvingInterval; i <= nPrevHeight; i += consensusParams.nSubsidyHalvingInterval) {

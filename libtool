@@ -1,6 +1,6 @@
 #! /bin/bash
 # Generated automatically by config.status (tourcore) 1.0.0
-# Libtool was configured on host simon-Rampage-Formula:
+# Libtool was configured on host simon-HP-15-Notebook-PC:
 # NOTE: Changes made to this file will be lost: look at ltmain.sh.
 
 # Provide generalized library-building support services.
@@ -162,7 +162,7 @@ old_postuninstall_cmds=""
 lock_old_archive_extraction=no
 
 # A C compiler.
-LTCC="/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../native/bin/ccache x86_64-w64-mingw32-gcc"
+LTCC="/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../native/bin/ccache x86_64-w64-mingw32-gcc"
 
 # LTCC compiler flags.
 LTCFLAGS="-pipe -O2 "

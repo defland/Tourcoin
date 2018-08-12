@@ -1,10 +1,10 @@
 qt/test/qt_test_test_tour_qt-moc_compattests.o: \
  qt/test/moc_compattests.cpp qt/test/compattests.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/cstddef \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -18,11 +18,11 @@ qt/test/qt_test_test_tour_qt-moc_compattests.o: \
  /usr/share/mingw-w64/include/vadefs.h \
  /usr/share/mingw-w64/include/sdks/_mingw_directx.h \
  /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/utility \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_relops.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_pair.h \
@@ -61,23 +61,23 @@ qt/test/qt_test_test_tour_qt-moc_compattests.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/ext/new_allocator.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/memoryfwd.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
  /usr/share/mingw-w64/include/string.h \
  /usr/share/mingw-w64/include/sec_api/string_s.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/stdarg.h \
@@ -116,9 +116,9 @@ qt/test/qt_test_test_tour_qt-moc_compattests.o: \
  /usr/share/mingw-w64/include/errno.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/basic_string.tcc \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/iterator \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/ostream \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/ios \
@@ -144,15 +144,15 @@ qt/test/qt_test_test_tour_qt-moc_compattests.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/list \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_list.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/list.tcc \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/vector \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_uninitialized.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_vector.h \
@@ -162,59 +162,59 @@ qt/test/qt_test_test_tour_qt-moc_compattests.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_tree.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_map.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_multimap.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/QTest \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest_global.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestcase.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/QTest \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest_global.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestcase.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/numeric \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_numeric.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtemporarydir.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdir.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfileinfo.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfile.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfiledevice.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QScopedPointer \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestdata.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmark.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmarkmetric.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtemporarydir.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdir.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfileinfo.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfile.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfiledevice.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QScopedPointer \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestdata.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmark.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmarkmetric.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/limits \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qurl.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestsystem.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h \
- /home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qelapsedtimer.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qurl.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestsystem.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h \
+ /home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qelapsedtimer.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/set \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_set.h \
  /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_multiset.h
 
 qt/test/compattests.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/cstddef:
 
@@ -242,15 +242,15 @@ qt/test/compattests.h:
 
 /usr/share/mingw-w64/include/sdks/_mingw_ddk.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/utility:
 
@@ -328,39 +328,39 @@ qt/test/compattests.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/memoryfwd.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
 
 /usr/share/mingw-w64/include/string.h:
 
@@ -438,11 +438,11 @@ qt/test/compattests.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/basic_string.tcc:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/iterator:
 
@@ -494,23 +494,23 @@ qt/test/compattests.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/list.tcc:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/vector:
 
@@ -530,81 +530,81 @@ qt/test/compattests.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_multimap.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/QTest:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/QTest:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest_global.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest_global.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestcase.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestcase.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/numeric:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/bits/stl_numeric.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtemporarydir.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtemporarydir.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdir.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdir.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfileinfo.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfileinfo.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfile.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfile.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfiledevice.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfiledevice.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QScopedPointer:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QScopedPointer:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestdata.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestdata.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmark.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmark.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmarkmetric.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmarkmetric.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/limits:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qurl.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qurl.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestsystem.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestsystem.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h:
 
-/home/simon/tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qelapsedtimer.h:
+/home/simon/Desktop/Tourcoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qelapsedtimer.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/5.3-win32/include/c++/set:
 
