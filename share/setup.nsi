@@ -1,4 +1,4 @@
-Name "Tour Core (64-bit)"
+Name "Tour Core (-bit)"
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
@@ -10,11 +10,11 @@ SetCompressor /SOLID lzma
 !define URL https://www.tour.org/
 
 # MUI Symbol Definitions
-!define MUI_ICON "/home/simon/Desktop/Tourcoin/share/pixmaps/bitcoin.ico"
-!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/simon/Desktop/Tourcoin/share/pixmaps/nsis-wizard.bmp"
+!define MUI_ICON "/home/simon/Tourcoin/share/pixmaps/bitcoin.ico"
+!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/simon/Tourcoin/share/pixmaps/nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT
-!define MUI_HEADERIMAGE_BITMAP "/home/simon/Desktop/Tourcoin/share/pixmaps/nsis-header.bmp"
+!define MUI_HEADERIMAGE_BITMAP "/home/simon/Tourcoin/share/pixmaps/nsis-header.bmp"
 !define MUI_FINISHPAGE_NOAUTOCLOSE
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
@@ -22,13 +22,13 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_DEFAULTFOLDER "Tour Core"
 !define MUI_FINISHPAGE_RUN $INSTDIR\tour-qt.exe
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
-!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/simon/Desktop/Tourcoin/share/pixmaps/nsis-wizard.bmp"
+!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/simon/Tourcoin/share/pixmaps/nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
 
 # Included files
 !include Sections.nsh
 !include MUI2.nsh
-!if "64" == "64"
+!if "" == "64"
 !include x64.nsh
 !endif
 
@@ -48,8 +48,8 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile /home/simon/Desktop/Tourcoin/tourcore-${VERSION}-win64-setup.exe
-!if "64" == "64"
+OutFile /home/simon/Tourcoin/tourcore-${VERSION}-win-setup.exe
+!if "" == "64"
 InstallDir $PROGRAMFILES64\TourCore
 !else
 InstallDir $PROGRAMFILES\TourCore
@@ -73,14 +73,14 @@ ShowUninstDetails show
 Section -Main SEC0000
     SetOutPath $INSTDIR
     SetOverwrite on
-    File /home/simon/Desktop/Tourcoin/release/tour-qt.exe
-    File /oname=COPYING.txt /home/simon/Desktop/Tourcoin/COPYING
-    File /oname=readme.txt /home/simon/Desktop/Tourcoin/doc/README_windows.txt
+    File /home/simon/Tourcoin/release/tour-qt.exe
+    File /oname=COPYING.txt /home/simon/Tourcoin/COPYING
+    File /oname=readme.txt /home/simon/Tourcoin/doc/README_windows.txt
     SetOutPath $INSTDIR\daemon
-    File /home/simon/Desktop/Tourcoin/release/tourd.exe
-    File /home/simon/Desktop/Tourcoin/release/tour-cli.exe
+    File /home/simon/Tourcoin/release/tourd.exe
+    File /home/simon/Tourcoin/release/tour-cli.exe
     SetOutPath $INSTDIR\doc
-    File /r /home/simon/Desktop/Tourcoin/doc\*.*
+    File /r /home/simon/Tourcoin/doc\*.*
     SetOutPath $INSTDIR
     WriteRegStr HKCU "${REGKEY}\Components" Main 1
 
@@ -160,7 +160,7 @@ SectionEnd
 # Installer functions
 Function .onInit
     InitPluginsDir
-!if "64" == "64"
+!if "" == "64"
     ${If} ${RunningX64}
       ; disable registry redirection (enable access to 64-bit portion of registry)
       SetRegView 64
