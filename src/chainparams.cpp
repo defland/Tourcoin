@@ -24,12 +24,6 @@
 #include <string>
 
 
-#define GENESIS_TIME 1533261438
-#define GENESIS_DIFFICULTY 0x1e0fffff
-
-void MineGenesisBlock(CBlock &genesis);
-
-
 using std::fstream;
 
 static CBlock CreateGenesisBlock(const char* pszTimestamp, const CScript& genesisOutputScript, uint32_t nTime, uint32_t nNonce, uint32_t nBits, int32_t nVersion, const CAmount& genesisReward)
@@ -128,8 +122,6 @@ public:
 
         genesis = CreateGenesisBlock(1533337899, 3325733, 0x1e0fffff, 1, 50 * COIN);
 
-    //    MineGenesisBlock(genesis);
-
         consensus.hashGenesisBlock = genesis.GetHash();
 
         assert(consensus.hashGenesisBlock == uint256S("0x000008582c03d888e711f9d981a5f5eeaebc55c460e2f8ed945b953776e6c163"));
@@ -162,24 +154,21 @@ public:
         strSporkPubKey = "048458ecad5cfde2a01ad656ff8abdcc3dc28c70deb192daee25fb7202e4594a6ee1e97516c7a080bfc2b2ee82dc179e168ed87bde8ccd98d3ab1f7df053fa0c91";
         strMasternodePaymentsPubKey = "048458ecad5cfde2a01ad656ff8abdcc3dc28c70deb192daee25fb7202e4594a6ee1e97516c7a080bfc2b2ee82dc179e168ed87bde8ccd98d3ab1f7df053fa0c91";
 
-/*
+
 
         checkpointData = (CCheckpointData) {
             boost::assign::map_list_of
-		(0, uint256S("0x00000989f858be5b0fb306726691acb1f419af8fba3970efdb55e46b03f9c62e")),
-		1533261438,
-		0,
-		500
-            (   0, uint256S("0x000008f14c49fc21ce1794e88e5f8f0cdb7872b1cbf65e5939119c65456f72cd"))
-            (1500, uint256S("0x00000000010940f6b56aefc9e83ffb67b2e58868f597c75d0196ea43e4b5dc9a")),
-            1528396477, // * UNIX timestamp of last checkpoint block
-            2091,   // * total number of transactions between genesis and last checkpoint
+            (    0, uint256S("0x000008582c03d888e711f9d981a5f5eeaebc55c460e2f8ed945b953776e6c163"))
+            (26708, uint256S("0x00000000ce7249d6ab1e64f3ab88799118193cc7fdd711a5221c425b6f1216ff"))
+            (28800, uint256S("0x000000005c6a6e5a09e691335aaf33334bda2a5e535f0c326132a8b57800e3d5")),
+            1537034549, // * UNIX timestamp of last checkpoint block
+            31797,   // * total number of transactions between genesis and last checkpoint
                         //   (the tx=... number in the SetBestChain debug.log lines)
-            3500        // * etourated number of transactions per day after checkpoint
+            3500        // * estimated number of transactions per day after checkpoint
 
         };
 
-*/        
+        
     }
 };
 static CMainParams mainParams;
@@ -418,27 +407,3 @@ void SelectParams(const std::string& network)
 }
 
 
-void MineGenesisBlock(CBlock &genesis)
-{
-  arith_uint256 best = arith_uint256();
-  int n=0;
-  
-  arith_uint256 hashTarget = arith_uint256().SetCompact(genesis.nBits);
-  while (UintToArith256(genesis.GetHash()) > hashTarget) {
-    
-    arith_uint256 c=UintToArith256(genesis.GetHash());
-    
-    if(c < best || n==0)
-      {
-    best = c;
-    n=1;
-    printf("%s %s %s\n",genesis.GetHash().GetHex().c_str(),hashTarget.GetHex().c_str(),
-           best.GetHex().c_str());
-      }
-    
-    ++genesis.nNonce;
-    if (genesis.nNonce == 0) { ++genesis.nTime; }
-  }
-  
-  printf("%s\n",genesis.ToString().c_str());    
-}
